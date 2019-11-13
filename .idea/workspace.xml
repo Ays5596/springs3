@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SpringMvcDemo.war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9e23f58-c9c4-46d7-9b58-26cf85474819" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Rjb4KdF6qWDmeBo89HYGFTsSEy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../KeepNote-Step1/KeepNote-Step1-Boilerplate" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Smart Tomcat.tomcat9">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="SpringMvcEx2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="SpringMvcEx2" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="springmvcdemo [clean]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="springmvcdemo [compile]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="compile" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="springmvcdemo [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+      <option name="DOC_BASE" value="$PROJECT_DIR$/target/springmvcdemo" />
+      <option name="DOC_MODULE_ROOT" value="" />
+      <option name="CONTEXT_PATH" value="/" />
+      <option name="TOMCAT_PORT" value="8080" />
+      <option name="AJP_PORT" value="8009" />
+      <option name="ADMIN_PORT" value="8005" />
+      <option name="VM_OPTIONS" value="" />
+      <option name="PASS_PARENT_ENV_OPTIONS" value="true" />
+      <option name="CLASS_NAME" value="" />
+      <option name="DEBUG" value="" />
+      <option name="DIGEST" value="" />
+      <option name="ROLE_NAME_COL" value="" />
+      <option name="USER_CRED_COL" value="" />
+      <option name="USER_NAME_COL" value="" />
+      <option name="USER_ROLE_TABLE" value="" />
+      <option name="USER_TABLE" value="" />
+      <option name="JNDI_GLOBAL" value="" />
+      <option name="JNDI_NAME" value="" />
+      <option name="JNDI_TYPE" value="" />
+      <option name="DATA_SOURCE_NAME" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+      <option name="DOC_BASE" value="$PROJECT_DIR$/target/springmvcdemo" />
+      <option name="DOC_MODULE_ROOT" value="" />
+      <option name="CONTEXT_PATH" value="/" />
+      <option name="TOMCAT_PORT" value="8080" />
+      <option name="AJP_PORT" value="8009" />
+      <option name="ADMIN_PORT" value="8005" />
+      <option name="VM_OPTIONS" value="" />
+      <option name="PASS_PARENT_ENV_OPTIONS" value="true" />
+      <option name="CLASS_NAME" value="" />
+      <option name="DEBUG" value="" />
+      <option name="DIGEST" value="" />
+      <option name="ROLE_NAME_COL" value="" />
+      <option name="USER_CRED_COL" value="" />
+      <option name="USER_NAME_COL" value="" />
+      <option name="USER_ROLE_TABLE" value="" />
+      <option name="USER_TABLE" value="" />
+      <option name="JNDI_GLOBAL" value="" />
+      <option name="JNDI_NAME" value="" />
+      <option name="JNDI_TYPE" value="" />
+      <option name="DATA_SOURCE_NAME" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat9" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+      <option name="DOC_BASE" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="DOC_MODULE_ROOT" value="" />
+      <option name="CONTEXT_PATH" value="/SpringMvcDemo" />
+      <option name="TOMCAT_PORT" value="8080" />
+      <option name="AJP_PORT" value="8009" />
+      <option name="ADMIN_PORT" value="8005" />
+      <option name="VM_OPTIONS" value="" />
+      <option name="PASS_PARENT_ENV_OPTIONS" value="true" />
+      <option name="CLASS_NAME" value="" />
+      <option name="DEBUG" value="" />
+      <option name="DIGEST" value="" />
+      <option name="ROLE_NAME_COL" value="" />
+      <option name="USER_CRED_COL" value="" />
+      <option name="USER_NAME_COL" value="" />
+      <option name="USER_ROLE_TABLE" value="" />
+      <option name="USER_TABLE" value="" />
+      <option name="JNDI_GLOBAL" value="" />
+      <option name="JNDI_NAME" value="" />
+      <option name="JNDI_TYPE" value="" />
+      <option name="DATA_SOURCE_NAME" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.springmvcdemo [clean]" />
+      <item itemvalue="Maven.springmvcdemo [compile]" />
+      <item itemvalue="Maven.springmvcdemo [package]" />
+      <item itemvalue="Smart Tomcat.tomcat9" />
+      <item itemvalue="Smart Tomcat.tomcat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.springmvcdemo [package]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9e23f58-c9c4-46d7-9b58-26cf85474819" name="Default Changelist" comment="" />
+      <created>1570183259107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570183259107</updated>
+      <workItem from="1570183262589" duration="653000" />
+      <workItem from="1570183960528" duration="2331000" />
+      <workItem from="1570597622604" duration="18464000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
